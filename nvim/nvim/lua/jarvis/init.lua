@@ -1,1 +1,0 @@
-/Users/owner/.config/nvim/lua/jarvis/init.lua

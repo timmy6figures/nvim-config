@@ -1,1 +1,2 @@
-/Users/owner/.config/nvim/init.lua
+require("jarvis.core")
+require("jarvis.lazy")
